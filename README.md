@@ -86,5 +86,13 @@ This project uses a **single-branch Git workflow** with only the `master` branch
 - Collaboration is managed through coordination and task assignment rather than branching.
 - This simplified workflow is used for learning basic Git collaboration concepts.
 
+---
 
+### 📖 Usage
+
+- Open the app and browse the menu.
+- Click **Proceed to Order** to start creating orders.
+- Add items to your order by clicking **Add** buttons.
+- Click **View Summary** to see the total orders.
+- From **Summary**, navigate to **Statistics** to check daily sales.
 
