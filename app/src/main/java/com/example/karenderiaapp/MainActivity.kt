@@ -12,6 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.compose.rememberNavController
+import com.example.karenderiaapp.navigation.AppNavHost
 import com.example.karenderiaapp.ui.theme.KarenderiaAppTheme
 
 class MainActivity : ComponentActivity() {
