@@ -3,7 +3,8 @@ package com.example.karenderiaapp.data
 
 data class MenuItem(
     val name: String,
-    val price: Double
+    val price: Double,
+    val imageRes: Int
 )
 
 
