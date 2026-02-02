@@ -11,7 +11,8 @@ The app focuses on basic but essential karenderia operations including **menu ma
 ### 🛠️ Technical Overview
 
 - **Programming Language:** Kotlin  
-- **Architecture:** Single Activity Architecture  
+- **Architecture:** Single Activity Architecture
+- **UI Framework:** Jetpack Compose
 - **Main Folder:** `Karenderia-App`  
 - **Navigation:** Android Jetpack Navigation Component  
   - `navigation` folder  
@@ -40,6 +41,16 @@ The Karenderia App consists of the following main screens:
 
 - **MainActivity**  
   The main entry point of the application that hosts and manages navigation between all screens.
+
+---
+
+### ⚙️ Features
+
+- View menu items with prices
+- Add items to orders
+- View order summary with total items
+- Track total daily sales and total orders
+- Navigate easily between screens
 
 ---
 
